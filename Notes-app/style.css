@@ -80,3 +80,13 @@ body {
         margin-top: 75px;
     }
 }
+
+@media (max-width:426px) {
+    .add {
+        width: 93%;
+        text-align: center;
+        padding: 0.5rem;
+        margin: 1rem auto;
+        font-size: 1.2rem;
+    }
+}
